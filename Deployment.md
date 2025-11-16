@@ -114,7 +114,7 @@ Enter:
 eksctl create cluster \
   --name livekit-cluster-v2 \
   --region us-east-1 \
-  --version 1.30 \
+  --version 1.34 \
   --nodegroup-name workers \
   --instance-types t3.medium \
   --nodes 2 \

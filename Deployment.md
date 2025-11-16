@@ -17,7 +17,7 @@ This is a **complete, professional, enterprise-grade deployment guide** for **Li
 | **LiveKit Helm Chart** | Autoscaling, graceful shutdown, zero-downtime upgrades |
 
 > **Tested & Verified on**:  
-> - EKS 1.30  
+> - EKS 1.34  
 > - LiveKit Helm v0.15+  
 > - cert-manager v1.15.3  
 > - AWS ALB Controller v2.14.1  

@@ -271,7 +271,7 @@ livekit:
   turn:
     enabled: true
     domain: turn.yourdomain.com
-    certManagerIssuer: letsencrypt-prod
+    certManagerIssuer: letsencrypt-prod #Just remove this line if you got any issues then upgrade so that deploy again with changes.
     tls_port: 3478
     udp_port: 3478
 
